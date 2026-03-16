@@ -1,4 +1,4 @@
-# VAULTX
+# LinkVault 
 
 Ferramenta de armazenamento de URLs.
 
@@ -10,8 +10,8 @@ git clone https://github.com/Jottagodness/LinkVault
 
 Entre na pasta:
 
-cd vaultx
+cd LinkVault 
 
 Execute:
 
-python vaultx.pyc
+python LinkVault.pyc
