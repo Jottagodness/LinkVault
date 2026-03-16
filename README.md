@@ -1,2 +1,17 @@
-# LinkVault
-LinkVault um painel para armazenar urls , você pode ver, adcionar e remover as suas urls. 
+# VAULTX
+
+Ferramenta de armazenamento de URLs.
+
+## Instalação
+
+Clone o repositório:
+
+git clone https://github.com/Jottagodness/LinkVault
+
+Entre na pasta:
+
+cd vaultx
+
+Execute:
+
+python vaultx.pyc
